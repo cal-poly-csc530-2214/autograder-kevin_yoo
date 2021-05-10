@@ -1,0 +1,14 @@
+int isOdd(int a) {
+    return a % ??;
+}
+
+int isEven(int a) {
+    return (a + 1) % ??;
+}
+
+harness void main() {
+    assert isOdd(5);
+    assert isOdd(7);
+    assert isEven(4);
+    assert isEven(200);
+}
