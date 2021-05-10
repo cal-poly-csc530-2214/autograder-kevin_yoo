@@ -9,3 +9,5 @@ Read through the paper twice to get enough of an understanding of how the pipeli
 
 With this in mind, I am attempting to choose a common introductory CS problem which I will translate manually into something acceptable by SKETCH. 
 
+## Update 2
+Can't figure out how to get sketch running on MacOS. Will just write what I think is the sketch program. The example problems I am using are two functions: one that returns true if an input int is even and on that returns rue if an input int is odd.
